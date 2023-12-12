@@ -1,0 +1,27 @@
+
+z	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(íÃ’§şÿÿÿÿ8ÏÃØÈÅ1
+u	java:S135P"YReduce the total number of break and continue statements in this loop to use at most one.(ıèÖù8ÏÃØÈÅ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8èÆØÈÅ1
+P
+java:S1481O".Remove this unused "charArray" local variable.(ÕœÂºøÿÿÿÿ8üÆØÈÅ1
+L	java:S106"+Replace this use of System.out by a logger.(¸…Ôıÿÿÿÿ8†ÇØÈÅ1
+H	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8‡ÇØÈÅ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8¬õÙÈÅ1
+Q
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8¬õÙÈÅ1
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8­õÙÈÅ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8­õÙÈÅ1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8­õÙÈÅ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8­õÙÈÅ1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8­õÙÈÅ1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8­õÙÈÅ1
+é
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 109 to 64, Complexity from 25 to 14, Nesting Level from 4 to 2, Number of Variables from 12 to 6.(ÙØ¤Şıÿÿÿÿ8ˆÇØÈÅ1
