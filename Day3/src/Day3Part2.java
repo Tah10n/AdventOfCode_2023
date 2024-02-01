@@ -98,7 +98,7 @@ public class Day3Part2 {
     }
 
     public static char[][] readFile(String fileName) {
-        File file = new File(Day3Part1.class.getClassLoader().getResource(fileName).getFile());
+        File file = new File(Day3Part2.class.getClassLoader().getResource(fileName).getFile());
         try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
             List<String> lines = new ArrayList<>();
             String line;

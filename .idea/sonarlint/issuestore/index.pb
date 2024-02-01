@@ -3,12 +3,6 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 E
 AdventOfCode_2023.iml,b\b\bb7318a84201d0e5e9d3e4c9c81169665560a87c
-B
-Day1/Da1Part1.java,9\c\9cab5fdac3ed9057432ab001e3f4a9b6d5be14dc
-B
-Day1/src/Main.java,0\8\086e029212e3fcdcae7bb5a23271dce4d2ab7738
-C
-Day1/Day1Part2.java,b\8\b8d25921f0f9826e84582b30dbe54f5affc756f7
 =
 Day1/Day1.iml,9\1\91bfb5a48a04c1b7311c94411ef41cf61743d3f5
 G
@@ -49,15 +43,11 @@ Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a057
 Q.idea/sonarlint/securityhotspotstore/b/b/bb7318a84201d0e5e9d3e4c9c81169665560a87c,d\b\db18420978b28bbdddb1002764d64ee39a22f47d
 =
 Day3/Day3.iml,e\9\e9c077826333c1b4d16679ffa8c1ac1ad6837901
-Å
-Q.idea/sonarlint/securityhotspotstore/9/c/9cab5fdac3ed9057432ab001e3f4a9b6d5be14dc,e\f\ef300f49edcd537f62d4d2095d5eb9164898382b
 w
 G.idea/sonarlint/issuestore/9/1/91bfb5a48a04c1b7311c94411ef41cf61743d3f5,8\2\8286f8f6c3960ab162e53b8064cb3032c6db105e
-w
-G.idea/sonarlint/issuestore/9/c/9cab5fdac3ed9057432ab001e3f4a9b6d5be14dc,8\5\85d88e1d99315b42b1641577e214f22140a1b949
-Å
-Q.idea/sonarlint/securityhotspotstore/0/8/086e029212e3fcdcae7bb5a23271dce4d2ab7738,e\4\e41cd5a0a2be9bca9a8e21bdb26a6c3352dbddee
 Å
 Q.idea/sonarlint/securityhotspotstore/9/1/91bfb5a48a04c1b7311c94411ef41cf61743d3f5,3\c\3c8383392538faaf094c92deb95fd92cfb8959b8
-Å
-Q.idea/sonarlint/securityhotspotstore/b/8/b8d25921f0f9826e84582b30dbe54f5affc756f7,6\9\69f6119a307319a8e4f2823247207c71dfd9d438
+G
+Day4/src/Day4Part1.java,b\5\b590d060f674f3b3537b30e44cf808b64aec4927
+G
+Day4/src/Day4Part2.java,e\6\e67242157f1f07a84873c069fc1dec8786d30380

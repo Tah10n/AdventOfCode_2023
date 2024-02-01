@@ -1,0 +1,11 @@
+
+g	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(°äî³þÿÿÿÿ8œ•¾£Ö1
+g	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(š®›Èûÿÿÿÿ8œ•¾£Ö1
+L	java:S106"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8Ó–¾£Ö1
+L	java:S106"+Replace this use of System.out by a logger.(þÛâ“ÿÿÿÿÿ8Ô–¾£Ö1
+G	java:S106)"+Replace this use of System.out by a logger.(¦Áûê8Ö–¾£Ö1
+]	java:S125I"<This block of commented-out lines of code should be removed.(ŸÄúÿÿÿÿ8Ù–¾£Ö1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Û–¾£Ö1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8Û–¾£Ö1

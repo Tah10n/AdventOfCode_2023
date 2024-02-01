@@ -1,0 +1,23 @@
+
+g	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8õ„§íÅ1
+g	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ö„§íÅ1
+u	java:S135("YReduce the total number of break and continue statements in this loop to use at most one.(ë¤Øˆ8³‘ÙíÅ1
+z	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(°ôÓÿÿÿÿÿ8³‘ÙíÅ1
+y	java:S127@"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Š£ıÿÿÿÿÿ8³‘ÙíÅ1
+y	java:S127F"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆæ—õıÿÿÿÿ8³‘ÙíÅ1
+t	java:S127I"XRefactor the code in order to not assign to this loop counter from within the loop body.(âª´û8³‘ÙíÅ1
+L	java:S106"+Replace this use of System.out by a logger.(÷ šüÿÿÿÿ8Š†§íÅ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 79 to the 15 allowed.(ÒËÏëşÿÿÿÿ8Ä’ÙíÅ1
+G
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8Æ’ÙíÅ1
+]	java:S125O"<This block of commented-out lines of code should be removed.(®Õ¼†ıÿÿÿÿ8È’ÙíÅ1
+X	java:S125R"<This block of commented-out lines of code should be removed.(Áİì8É’ÙíÅ1
+X	java:S125U"<This block of commented-out lines of code should be removed.(÷ƒ±í8É’ÙíÅ1
+X	java:S125_"<This block of commented-out lines of code should be removed.(†™Ôõ8É’ÙíÅ1
+b
+java:S2147x"ECombine this catch with the one at line 118, which has the same body.(ï­£Ä8“†§íÅ1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8±ş×íÅ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8±ş×íÅ1

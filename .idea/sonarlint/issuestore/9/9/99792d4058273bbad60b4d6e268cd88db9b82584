@@ -1,0 +1,13 @@
+
+g	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨£ééÅ1
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨£ééÅ1
+u	java:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(¡ìï²8òÆ¥ëÅ1
+z	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(°ôÓÿÿÿÿÿ8òÆ¥ëÅ1
+t	java:S127:"XRefactor the code in order to not assign to this loop counter from within the loop body.(„ªî8óÆ¥ëÅ1
+L	java:S106	"+Replace this use of System.out by a logger.(÷ šüÿÿÿÿ8¢¤ééÅ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(ÒËÏëşÿÿÿÿ8éÇ¥ëÅ1
+]	java:S125"<This block of commented-out lines of code should be removed.(´ïİŞøÿÿÿÿ8ëÇ¥ëÅ1
+]	java:S1252"<This block of commented-out lines of code should be removed.(§Æ‚Ùùÿÿÿÿ8ëÇ¥ëÅ1
+a
+java:S2147V"DCombine this catch with the one at line 84, which has the same body.(ï­£Ä8¨¤ééÅ1
