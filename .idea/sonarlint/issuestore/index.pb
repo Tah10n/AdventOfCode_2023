@@ -51,3 +51,7 @@ G
 Day4/src/Day4Part1.java,b\5\b590d060f674f3b3537b30e44cf808b64aec4927
 G
 Day4/src/Day4Part2.java,e\6\e67242157f1f07a84873c069fc1dec8786d30380
+G
+Day5/src/Day5Part1.java,c\0\c0752a9a868f654b6932b9d61890fe637400d086
+G
+Day5/src/Day5Part2.java,7\d\7d4b453c69085970147eaa9328ef913fe1ad5a0c

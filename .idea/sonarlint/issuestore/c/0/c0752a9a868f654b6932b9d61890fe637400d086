@@ -1,0 +1,19 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÔşÉÓÖ1
+|
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(õÌ—ú8ÂÊåÓÖ1
+b
+java:S2095	"EUse try-with-resources or close this "Scanner" in a "finally" clause.(šªá¡8ıÿÉÓÖ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Çµí‘8ÿÿÉÓÖ1
+L	java:S106."+Replace this use of System.out by a logger.(Â³ûÿÿÿÿ8€ÊÓÖ1
+G	java:S106>"+Replace this use of System.out by a logger.(ìÃ–®8€ÊÓÖ1
+G	java:S106O"+Replace this use of System.out by a logger.(‘¾½Å8æÿÚÔÖ1
+G	java:S106`"+Replace this use of System.out by a logger.(æœ®ô8èÿÚÔÖ1
+F	java:S106p"+Replace this use of System.out by a logger.(¯İÒ"8éÿÚÔÖ1
+M	java:S106€"+Replace this use of System.out by a logger.(é±¸Óøÿÿÿÿ8êÿÚÔÖ1
+M	java:S106"+Replace this use of System.out by a logger.(¢èé®ûÿÿÿÿ8ëÿÚÔÖ1
+M	java:S106•"+Replace this use of System.out by a logger.(ŒóØÓøÿÿÿÿ8ëÿÚÔÖ1
+Y	java:S125"<This block of commented-out lines of code should be removed.(”ö 8ÀáäÓÖ1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 132 to 64, Complexity from 24 to 14, Nesting Level from 3 to 2, Number of Variables from 58 to 6.(Çµí‘8€ÊÓÖ1

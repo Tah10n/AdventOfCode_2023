@@ -1,0 +1,33 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(£Ğ£áıÿÿÿÿ8ˆ›ŞÇ×1
+
+java:S1488Ú"^Immediately return this expression instead of assigning it to the temporary variable "result".(½Ü“úÿÿÿÿ8‰›ŞÇ×1
+
+java:S1488ê"^Immediately return this expression instead of assigning it to the temporary variable "result".(½Ü“úÿÿÿÿ8‰›ŞÇ×1
+]	java:S125$"<This block of commented-out lines of code should be removed.(Óİ½¦ùÿÿÿÿ8ÄœŞÇ×1
+X	java:S125'"<This block of commented-out lines of code should be removed.(ñÅøª8ÅœŞÇ×1
+L	java:S106/"+Replace this use of System.out by a logger.(ã‘É¬ùÿÿÿÿ8ÉœŞÇ×1
+\
+java:S1854Q":Remove this useless assignment to local variable "source".(šÆŞ¿ùÿÿÿÿ8ÆœŞÇ×1
+M
+java:S1481Q"+Remove this unused "source" local variable.(šÆŞ¿ùÿÿÿÿ8ÆœŞÇ×1
+G	java:S106n"+Replace this use of System.out by a logger.(¯è»«8ÉœŞÇ×1
+L	java:S106p"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8î®æÇ×1
+M	java:S106†"+Replace this use of System.out by a logger.(¬¸Ä±ıÿÿÿÿ8ÊÚöÇ×1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8•èûÇ×1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ºÎåŸ8ÉœŞÇ×1
+Y	java:S125˜"<This block of commented-out lines of code should be removed.(¾Ûø8ÊœŞÇ×1
+Y	java:S125£"<This block of commented-out lines of code should be removed.(¾Ûø8ËœŞÇ×1
+Y	java:S125«"<This block of commented-out lines of code should be removed.(¾Ûø8ËœŞÇ×1
+Y	java:S125³"<This block of commented-out lines of code should be removed.(¾Ûø8ËœŞÇ×1
+Y	java:S125»"<This block of commented-out lines of code should be removed.(¾Ûø8ÌœŞÇ×1
+Y	java:S125Ã"<This block of commented-out lines of code should be removed.(¾Ûø8ÌœŞÇ×1
+Y	java:S125Ë"<This block of commented-out lines of code should be removed.(¾Ûø8ÍœŞÇ×1
+O
+java:S1144["3Remove this unused private "seedToLocation" method.(õŸu8ÎœŞÇ×1
+L
+java:S1144k"/Remove this unused private "printSeeds" method.(ãã»œ8ÎœŞÇ×1
+Q
+java:S1144".Remove this unused private "printMaps" method.(¼¸ş¼úÿÿÿÿ8ÎœŞÇ×1
